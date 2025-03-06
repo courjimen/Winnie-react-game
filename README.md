@@ -7,7 +7,7 @@ This is a cool memory game utilizing React and Vite!
 3. [How to Play](#how-to-play)
 4. [Demo](#demo)
 
-### Cloning Instructions
+### Cloning  Instructions
 
 
 ### Installation Instructions
